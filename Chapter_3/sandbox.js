@@ -18,8 +18,8 @@
 
 // While Loop
 
-let index = 0;
-while (index < 6) {
-    console.log(`loop ${index}`);
-    index++;
-};
+// let index = 0;
+// while (index < 6) {
+//     console.log(`loop ${index}`);
+//     index++;
+// };
