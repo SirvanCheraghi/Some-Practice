@@ -11,5 +11,5 @@ const pronouns = ["I", "You", "Him", "Her", "Their"];
 for (let i = 0; i < pronouns.length; i++) {
     // console.log(i, pronouns[i]);
     // console.log(`${i}. ${pronouns[i]}`);
-    let html = `<div>${}</div>`
+    let html = `<div>${pronouns}</div>`
 }
