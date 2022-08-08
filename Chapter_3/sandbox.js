@@ -26,3 +26,7 @@
 
 const names = ["َSirvan","Daniel", "Aqil", "Jasem", "Hantoush"];
 
+while (i < names.length) {
+    console.log(`loop ${names[i]}`);
+    i++;
+};
