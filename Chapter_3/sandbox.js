@@ -24,12 +24,12 @@
 //     index++;
 // };
 
-const names = ["َSirvan","Daniel", "Aqil", "Jasem", "Hantoush"];
+// const names = ["َSirvan","Daniel", "Aqil", "Jasem", "Hantoush"];
 
-let i=0;
-while (i < names.length) {
+// let i=0;
+// while (i < names.length) {
 
-    console.log(`loop ${names[i]}`);
-    i++;
-    
-};
+//     console.log(`loop ${names[i]}`);
+//     i++;
+
+// };
