@@ -72,6 +72,11 @@
 const score = [50, 25, 0, 32, 90, 8];
 
 for (let i = 0; i < score.length; i++) {
-    const element = score[i];
-    
+
+    console.log(`your score is ${score[i]}`);
+
+    if (score[i]===100) {
+        console.log(`congrats! u've claimed the top score ever!!!`);
+        break;
+    }
 }
