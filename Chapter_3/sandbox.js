@@ -45,3 +45,5 @@
 
 // if statements
 
+const age = 20
+
