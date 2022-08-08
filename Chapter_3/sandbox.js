@@ -73,6 +73,9 @@ const score = [50, 25, 0, 32, 90, 8];
 
 for (let i = 0; i < score.length; i++) {
 
+    if (score[i]===0) {
+        continue;
+    }
     console.log(`your score is ${score[i]}`);
 
     if (score[i]===100) {
