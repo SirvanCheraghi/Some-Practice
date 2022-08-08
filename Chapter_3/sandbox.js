@@ -8,7 +8,7 @@
 
 const pronouns = ["I", "You", "Him", "Her", "Their"];
 
-for (let i = 0; i < array.length; i++) {
-    const element = array[i];
+for (let i = 0; i < pronouns.length; i++) {
+    const element = pronouns[i];
     
 }
