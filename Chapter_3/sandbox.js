@@ -6,11 +6,20 @@
 // };
 //  console.log(`loop is over!`);
 
-const pronouns = ["I", "You", "Him", "Her", "Their"];
+// const pronouns = ["I", "You", "Him", "Her", "Their"];
 
-for (let i = 0; i < pronouns.length; i++) {
-    // console.log(i, pronouns[i]);
-    // console.log(`${i}. ${pronouns[i]}`);
-    let html = `<div>${pronouns[i]}</div>`
-    console.log(html);
-}
+// for (let i = 0; i < pronouns.length; i++) {
+//     // console.log(i, pronouns[i]);
+//     // console.log(`${i}. ${pronouns[i]}`);
+//     let html = `<div>${pronouns[i]}</div>`
+//     console.log(html);
+// }
+
+
+// While Loop
+
+let index = 0;
+while (index < 6) {
+    console.log(`loop ${index}`);
+    index++;
+};
