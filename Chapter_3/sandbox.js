@@ -23,3 +23,6 @@
 //     console.log(`loop ${index}`);
 //     index++;
 // };
+
+const names = ["َSirvan","Daniel", "Aqil", "Jasem", "Hantoush"];
+
