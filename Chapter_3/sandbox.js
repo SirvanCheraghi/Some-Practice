@@ -36,3 +36,8 @@
 
 
 // do while
+
+do {
+    console.log(`loop ${names[i]}`);
+    i++;
+} while (i < names.length);
