@@ -83,3 +83,34 @@
 //         break;
 //     }
 // }
+
+
+// switch case!
+
+const grade = "P";
+
+switch (grade) {
+    case "A":
+        console.log(`${grade}!`);
+        break;
+    case "B":
+        console.log(`${grade}!`);
+        
+        break;
+    case "C":
+        console.log(`${grade}!`);
+        
+        break;
+    case "D":
+        console.log(`${grade}!`);
+        
+        break;
+    case "E":
+        console.log(`${grade}!`);
+        
+        break;
+
+    default:
+        console.log(`not valid!`);
+        break;
+}
