@@ -6,3 +6,4 @@
 // };
 //  console.log(`loop is over!`);
 
+const pronouns = ["I", "You", "Him", "Her", "Their"];
