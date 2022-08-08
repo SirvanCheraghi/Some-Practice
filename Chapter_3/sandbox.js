@@ -64,3 +64,14 @@
 
 // Logic not true (!);
 // if we write "!true", it means "false".
+
+
+
+// break and continue
+
+const score = [50, 25, 0, 32, 90, 8];
+
+for (let i = 0; i < array.length; i++) {
+    const element = array[i];
+    
+}
