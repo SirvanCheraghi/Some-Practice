@@ -71,7 +71,7 @@
 
 const score = [50, 25, 0, 32, 90, 8];
 
-for (let i = 0; i < array.length; i++) {
-    const element = array[i];
+for (let i = 0; i < score.length; i++) {
+    const element = score[i];
     
 }
