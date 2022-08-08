@@ -37,7 +37,11 @@
 
 // do while
 
-do {
-    console.log(`loop ${names[i]}`);
-    i++;
-} while (i < names.length);
+// do {
+//     console.log(`loop ${names[i]}`);
+//     i++;
+// } while (i < names.length);
+
+
+// if statements
+
