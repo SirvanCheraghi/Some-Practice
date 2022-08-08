@@ -15,7 +15,7 @@
 //     console.log(html);
 // }
 
-let index = 0;
+let index = 0;Z
 while (index < 6) {
     console.log(`loop ${index}`);
     index++;
