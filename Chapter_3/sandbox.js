@@ -46,6 +46,7 @@
 // if statements
 
 // const age = 20
+const age = 25
 
 if (age > 20) {
     console.log(`u r over 20!`);
