@@ -15,7 +15,7 @@
 //     console.log(html);
 // }
 
-
+// While Loop
 
 let index = 0;
 while (index < 6) {
