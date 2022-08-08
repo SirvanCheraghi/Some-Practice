@@ -54,3 +54,7 @@
 
 
 // it can also use if with some counting attributes that can count like .length!
+
+
+// if and else if and else
+// when a condition is pass, if statement will go for another one. "if sth didn't work out, try sth else; otherwise return sth by default if nth expected"
