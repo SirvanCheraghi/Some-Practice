@@ -58,3 +58,5 @@
 
 // if and else if and else
 // when a condition is pass, if statement will go for another one. "if sth didn't work out, try sth else; otherwise return sth by default if nth expected"
+
+// for adding some other condition or command, can use && or || 
