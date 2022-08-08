@@ -15,8 +15,8 @@
 //     console.log(html);
 // }
 
-let index = 
-while (index < 6;) {
+let index = 0;
+while (index < 6) {
     console.log(`loop ${index}`);
     index++;
 };
