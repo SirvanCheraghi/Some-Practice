@@ -52,3 +52,5 @@
 //     console.log(`u r over 20!`);
 // }
 
+
+// it can also use if with some counting attributes that can count like .length!
