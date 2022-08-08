@@ -69,7 +69,7 @@
 
 // break and continue
 
-const score = [50, 25, 0, 32, 90, 8];
+const score = [50, 25, 0, 32, 100, 90, 8];
 
 for (let i = 0; i < score.length; i++) {
 
