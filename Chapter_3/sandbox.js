@@ -114,3 +114,14 @@
 //         console.log(`not valid!`);
 //         break;
 // }
+
+
+// variables & block scope
+
+let age = 30;
+
+if (true) {
+    
+}
+
+console.log(`outside code block: ${age}`);
