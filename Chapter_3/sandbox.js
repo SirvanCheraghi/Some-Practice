@@ -132,7 +132,8 @@ if (true) {
         // let age = 50;
         const age = 50;
         console.log(`inside 2nd code block: ${age}, ${name}.`);
+        var test = "tata";
     }
 }
 
-console.log(`outside code block: ${age}, ${name}.`); // name won't show here.
+console.log(`outside code block: ${age}, ${name}, ${test}.`); // name won't show here.
