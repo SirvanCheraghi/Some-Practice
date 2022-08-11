@@ -123,7 +123,11 @@ let age = 30;
 if (true) {
     let age = 40;
     let name = "Hel";
-    console.log(`inside 1st code block: ${age}, ${name}.`);    
+    console.log(`inside 1st code block: ${age}, ${name}.`);
+
+    if (true) {
+        console.log(`inside 2nd code block: ${age}, ${name}.`);
+    }
 }
 
 console.log(`outside code block: ${age}, ${name}.`); // name won't show here.
