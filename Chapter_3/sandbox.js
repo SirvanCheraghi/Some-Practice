@@ -126,6 +126,7 @@ if (true) {
     console.log(`inside 1st code block: ${age}, ${name}.`);
 
     if (true) {
+        let age = 50;
         console.log(`inside 2nd code block: ${age}, ${name}.`);
     }
 }
