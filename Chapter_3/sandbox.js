@@ -121,6 +121,7 @@
 let age = 30;
 
 if (true) {
+    let age = 40;
     console.log(`inside 1st code block: ${age}`);    
 }
 
