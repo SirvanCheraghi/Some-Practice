@@ -121,7 +121,7 @@
 let age = 30;
 
 if (true) {
-    
+    console.log(`inside code block: ${age}`);    
 }
 
 console.log(`outside code block: ${age}`);
