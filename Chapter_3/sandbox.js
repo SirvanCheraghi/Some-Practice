@@ -118,15 +118,19 @@
 
 // variables & block scope
 
-let age = 30;
+// let age = 30;
+const age = 30;
 
 if (true) {
-    let age = 40;
-    let name = "Hel";
+    // let age = 40;
+    const age = 40;
+    // let name = "Hel";
+    const name = "Hel";
     console.log(`inside 1st code block: ${age}, ${name}.`);
 
     if (true) {
-        let age = 50;
+        // let age = 50;
+        const age = 50;
         console.log(`inside 2nd code block: ${age}, ${name}.`);
     }
 }
